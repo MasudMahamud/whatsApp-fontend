@@ -30,9 +30,7 @@
 .chat_body{
     flex: 1;
     background-color:rgb(221, 219, 219);
-    background-position: center;
-    background-repeat: repeat;
-    padding: 30px;
+    padding: 40px;
     overflow: scroll;
 }
 
